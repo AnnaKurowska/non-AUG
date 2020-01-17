@@ -1,2 +1,2 @@
-user.name "Vlad Dracula"
-user.email "vlad@tran.sylvan.ia"
+$ git config --global user.name "Ania"
+$ git config --global user.email "s1650030@ed.ac.uk"
